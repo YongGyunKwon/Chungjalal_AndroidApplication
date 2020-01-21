@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624137649963",
+    "firebase_url": "https://fir-test-84deb.firebaseio.com",
+    "project_id": "fir-test-84deb",
+    "storage_bucket": "fir-test-84deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624137649963:android:3788a297d24de4c4e08f6e",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624137649963-dhosusvihhe0u94l11o0h2rv448k83dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetest",
+            "certificate_hash": "3f9a4a0062fac99f4e1ae285f9ae4b7943c4cf35"
+          }
+        },
+        {
+          "client_id": "624137649963-s99r95s9ei3ncnmpgb8n4i1mrs3j8idd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIE0HMN396jQligV1_vpOFAVlhDFJ4Oh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624137649963-s99r95s9ei3ncnmpgb8n4i1mrs3j8idd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
